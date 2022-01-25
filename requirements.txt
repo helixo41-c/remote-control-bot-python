@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+opencv-python
+PyAutoGUI
+psutil
+ahk
+Pillow
